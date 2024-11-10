@@ -34,13 +34,12 @@ The predictor will calculate the probability of the batting team winning based o
 ## Technologies Used
 This project leverages the following technologies:
 
-``bash
-Python
-Logistic Regression
-NumPy
-pandas
-Streamlit
-``
+- Python
+- Sklearn Logistic Regression
+- NumPy
+- pandas
+- Streamlit
+
 
 ## Installation
 
