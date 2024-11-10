@@ -47,24 +47,34 @@ To run this project locally, follow these steps:
 
 - Clone the repository to your local machine using this command:
 
-``bash
-git clone https://github.com/rajatrawal/ipl-win-predictor.git
+``
+    git clone https://github.com/rajatrawal/ipl-win-predictor.git
 ``
 - Navigate to the project directory:
 
-``bash
-cd IPL-Win-Predictor
+``
+    cd IPL-Win-Predictor
 ``
 - Install the required Python libraries:
 
-``bash
-pip install -r requirements.txt
+``
+    pip install -r requirements.txt
 ``
 
 - Run the Streamlit app locally:
 
-``bash
-streamlit run app.py
+``
+    streamlit run app.py
 ``
 
 - Open the provided local URL in your web browser to access the IPL Win Predictor.
+
+## Usage
+  To make predictions, provide the current match situation including team performance, player statistics, and match conditions. The predictor will calculate the probability of a team winning.
+
+## Contribute
+If you'd like to contribute to this project or have suggestions for improvement, please feel free to submit issues or pull requests on GitHub.
+
+Thank you for exploring the "IPL Win Predictor"! We hope this tool assists your IPL match predictions. 🏏🌟
+
+Author: @rudranarayan-01
