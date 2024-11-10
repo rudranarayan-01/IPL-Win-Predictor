@@ -45,26 +45,26 @@ This project leverages the following technologies:
 
 To run this project locally, follow these steps:
 
-Clone the repository to your local machine using this command:
+- Clone the repository to your local machine using this command:
 
 ``bash
 git clone https://github.com/rajatrawal/ipl-win-predictor.git
 ``
-Navigate to the project directory:
+- Navigate to the project directory:
 
 ``bash
 cd IPL-Win-Predictor
 ``
-Install the required Python libraries:
+- Install the required Python libraries:
 
 ``bash
 pip install -r requirements.txt
 ``
 
-Run the Streamlit app locally:
+- Run the Streamlit app locally:
 
 ``bash
 streamlit run app.py
 ``
 
-Open the provided local URL in your web browser to access the IPL Win Predictor.
+- Open the provided local URL in your web browser to access the IPL Win Predictor.
