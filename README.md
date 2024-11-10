@@ -76,5 +76,6 @@ To run this project locally, follow these steps:
 If you'd like to contribute to this project or have suggestions for improvement, please feel free to submit issues or pull requests on GitHub.
 
 Thank you for exploring the "IPL Win Predictor"! We hope this tool assists your IPL match predictions. 🏏🌟
+Add some feature..!
 
-Author: @rudranarayan-01
+### Author: [@rudranarayan-01](https://github.com/rudranarayan-01)
